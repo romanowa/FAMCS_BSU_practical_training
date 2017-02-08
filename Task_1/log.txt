@@ -1,0 +1,13 @@
+500@Samsung MINGW64 /g/FAMCS_BSU_practical_training (master)
+$ git log
+commit e6725eb43bdfabef7cb384097dfd1cdad556ef01
+Author: Alina Romanova <alina.romanowa@gmail.com>
+Date:   Wed Feb 8 20:30:54 2017 +0300
+
+    add status.txt
+
+commit 2ce72fb51561971277099ec6e36038a6924ffbe0
+Author: Alina Romanova <alina.romanowa@gmail.com>
+Date:   Wed Feb 8 20:16:19 2017 +0300
+
+    add .gitignore
