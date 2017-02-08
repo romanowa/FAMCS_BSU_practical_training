@@ -26,3 +26,9 @@ $ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
 nothing to commit, working directory clean
+
+500@Samsung MINGW64 /g/Repository_clone/FAMCS_BSU_practical_training (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
